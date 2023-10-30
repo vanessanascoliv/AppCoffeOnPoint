@@ -1,7 +1,5 @@
 ###### README.md
-<div align="center">
-<img src="./src/assets/images/logo.svg" alt="Logo"/></br>
-</div>
+
 <h1 align="center" style="font-weight:bold; color:#61DBFB">App CoffeOnPoint</h1>
 
 <h3 align="center">
